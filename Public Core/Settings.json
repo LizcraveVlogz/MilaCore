@@ -1,0 +1,25 @@
+{
+    "token": "Bot token goes here",
+    "api_key": "API key goes here",
+    "owners": "Owner ID goes here",
+    "default_prefix": "Default prefix goes here",
+    "support_guild": {
+        "invite": "Support invite goes here",
+        "id": "Support ID goes here"
+    },
+    "module": "Cog folder goes here",
+    "error_respond": "true/false to respond to errors",
+    "colours": {
+        "ERROR": "Colour integer goes here",
+        "INFO": "Colour integer goes here",
+        "NORMAL": "Colour integer goes here"
+    },
+    "cmd_logging": {
+        "enabled": "true/false to log commands",
+        "channel": "Command-log channel ID goes here"
+    },
+    "error_logging": {
+        "enabled": "true/false to log errors",
+        "channel": "Error-log channel ID goes here"
+    }
+}
